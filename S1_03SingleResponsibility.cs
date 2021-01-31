@@ -59,7 +59,7 @@ namespace DotNetDesignPatternDemos.SOLID.SRP
 
   public class Demo
   {
-    static void Main(string[] args)
+    static void _Main(string[] args)
     {
       var j = new Journal();
       j.AddEntry("I cried today.");
